@@ -11,7 +11,3 @@ if Loader then
 else
     warn("Game not supported")
 end
-
-end
-
-end)
